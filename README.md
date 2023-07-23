@@ -28,3 +28,6 @@ Due to Cookie Policy that appear on websites are too long and some users have di
 
 
 * https://pdpa.pro/blogs/what-is-cookie-consent-and-why-we-must-have-it
+
+
+Download summarize models -> https://drive.google.com/file/d/1EJJ1Rme8D_ia7efNTr00Nqr41MsTSVvL/view?usp=sharing
