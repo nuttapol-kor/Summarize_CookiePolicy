@@ -26,8 +26,5 @@ Due to Cookie Policy that appear on websites are too long and some users have di
 
 * https://cookieinformation.com/compliance-check/
 
-<<<<<<< HEAD
+
 * https://pdpa.pro/blogs/what-is-cookie-consent-and-why-we-must-have-it
-=======
-* https://pdpa.pro/blogs/what-is-cookie-consent-and-why-we-must-have-it
->>>>>>> cf3bd5831a589e83fb7a5f4a105186d0135940c9
