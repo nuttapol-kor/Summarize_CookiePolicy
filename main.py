@@ -23,7 +23,7 @@ async def generate_text(prompt: str):
             frequency_penalty=0,
             presence_penalty=0,
             messages=[
-                {"role": "system", "content": "You are an expert compliance and your native language is Thai. Summarize about policy and cookie in Thai that the user enters. Prompt from user was came from summarize model that maybe give you not full sentances, so you have try to complate the sentence for the user. User want short sentences to response back maybe not exceed 150 token"},
+                {"role": "system", "content": "You are an expert compliance and your native language is Thai. Summarize about policy and cookie in Thai that the user enters. Prompt from user was came from summarize model that maybe give you not full sentances, so you have try to complate the sentence for the user. User want short sentences to response back maybe not exceed 150 token. Ideally, if your sentences are understandable to a teenager around 15 years old."},
                 {"role": "user", "content": prompt},
             ],
         )
